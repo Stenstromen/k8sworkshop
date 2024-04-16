@@ -4,6 +4,7 @@
 
 - [Kubernetes Workshop](#kubernetes-workshop)
   - [Index](#index)
+  - [Git clone](#git-clone)
   - [Install kubectl](#install-kubectl)
   - [Download and install Rancher Desktop](#download-and-install-rancher-desktop)
   - [Initialize a new cluster](#initialize-a-new-cluster)
@@ -18,6 +19,15 @@
     - [Success](#success)
     - [Login](#login)
     - [Dashboard](#dashboard)
+
+## Git clone
+
+Clone this repository
+
+```bash
+git clone https://github.com/Stenstromen/k8sworkshop
+cd k8sworkshop
+```
 
 ## Install kubectl
 
